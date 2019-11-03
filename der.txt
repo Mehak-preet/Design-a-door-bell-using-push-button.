@@ -1,0 +1,15 @@
+Aim: Design a door bell using push button.
+Appartus:led,arduino,switch,breadboard.
+Procedure:
+step1:
+take the arduino and breadboard.
+step2:
+join the led .
+step3:
+attach the switch.
+step4:
+now write your code.
+step5:
+now as you starts the circuit,if the switch is On ,the led will glow.
+Conclusion:
+as the switch i.e the door bell press ,the led glow and vice versa.
