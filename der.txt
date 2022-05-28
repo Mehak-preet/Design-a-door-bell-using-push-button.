@@ -4,7 +4,7 @@ Procedure:
 step1:
 take the arduino and breadboard.
 step2:
-join the led .
+join the led with the arduino through jumper wires.
 step3:
 attach the switch.
 step4:
